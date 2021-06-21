@@ -1,0 +1,12 @@
+C:\Users\Nick\Source\Repos\ServerSay\ServerSay\bin\Debug\ServerSay.dll
+C:\Users\Nick\Source\Repos\ServerSay\ServerSay\bin\Debug\ServerSay.pdb
+C:\Users\Nick\Source\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.dll
+C:\Users\Nick\Source\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\ServerSay\ServerSay.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\ServerSay\ServerSay.pdb
+F:\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.csprojAssemblyReference.cache
+F:\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.csproj.CoreCompileInputs.cache
+F:\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.dll
+F:\Repos\ServerSay\ServerSay\obj\Debug\ServerSay.pdb
